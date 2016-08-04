@@ -6,8 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title></title>
 </head>
-<body>
- <h2>Submitted Student Information</h2>
+<body><h2>Student Information</h2>
     <table>
         <tr>
             <td>ID :</td>
